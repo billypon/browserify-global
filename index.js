@@ -10,7 +10,7 @@ insert.vars.__dirname = function (file) {
 
 insert.vars.__filename = function (file) {
     var filename = path.relative(basedir, file);
-    return '__filename' + (filename ? '+' +JSON.stringify('/' + filename) : filename);
+    return '__dirname' + (filename ? '+' +JSON.stringify('/' + filename) : filename);
 }
 
 module.exports = function (b, opts) {
