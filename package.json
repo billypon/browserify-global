@@ -1,0 +1,14 @@
+{
+  "name": "browserify-global",
+  "version": "1.0.0",
+  "description": "Let you use node global vars with browserify bundled file via node",
+  "author": "billypon <billypon@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billypon/browserify-global.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  }
+}
