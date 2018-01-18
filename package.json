@@ -8,7 +8,7 @@
     "url": "git+https://github.com/billypon/browserify-global.git"
   },
   "license": "MIT",
-  "dependencies": {
-    "concat-stream": "^1.6.0"
+  "peerDependencies": {
+    "insert-module-globals": "^7.0.1"
   }
 }
