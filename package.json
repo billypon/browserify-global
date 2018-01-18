@@ -1,6 +1,6 @@
 {
   "name": "browserify-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let you use node global vars with browserify bundled file via node",
   "author": "billypon <billypon@gmail.com>",
   "repository": {
